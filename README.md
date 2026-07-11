@@ -22,3 +22,8 @@ Pour contribuer à ce projet, veuillez:
 3. Commit vos changements (`git commit -m 'Ajout de la fonctionnalité'`).
 4. Pousser ver la branche (`git push origin feature/ma-nouvelle-fonction`).
 5. Ouvrir une Pull Request.
+
+## État d'avancement
+- [x] Structure README
+- [ ] Création de la page HTML
+- [ ] Intégration CSS
